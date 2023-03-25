@@ -45,3 +45,9 @@ df.isnull().sum()
 ```
 # OUPUT:
 
+# DATA:
+
+![data1](https://user-images.githubusercontent.com/69287315/227712564-00bb4d9f-ee8f-443c-b81b-9d4e095d7dea.png)
+
+
+
